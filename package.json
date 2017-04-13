@@ -1,0 +1,14 @@
+{
+  "name": "mgviz-openid-client-electron",
+  "version": "0.0.1",
+  "description": "Electron client for the MGviz OpenID service",
+  "main": "index.js",
+  "repository": { "type": "git", "url": "https://github.com/mgviz/openid-client-electron" },
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "keywords": [ "openid", "client", "mgviz", "electron" ],
+  "dependencies":
+  {
+    "electron-auth": "0.0.1"
+  },
+  "license": "MIT"
+}
