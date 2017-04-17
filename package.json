@@ -1,5 +1,5 @@
 {
-  "name": "mgviz-openid",
+  "name": "mgviz-openid-client",
   "version": "0.0.1",
   "description": "Electron client for the MGviz OpenID service",
   "main": "index.js",
